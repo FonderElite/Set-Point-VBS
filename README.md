@@ -1,4 +1,4 @@
 # Set-Point-VBS
 # <h1>Visual Basic Script</h1> 
-# ![alt text](https://www.clipartmax.com/png/small/210-2108930_advanced-vb-script-training-visual-basic-script-logo.png)
+# ![alt text](https://blog-du-grouik.tinad.fr/public/vbscript.png)
 # <p> Simple visual basic script that evaluates setting points!</p>
