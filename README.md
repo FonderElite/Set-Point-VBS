@@ -1,2 +1,3 @@
 # Set-Point-VBS
-Simple Vbs program that shows a evaluates setpoints!
+<h1>Visual Basic Script</h1>
+<p> Simple visual basic script that evaluates setting points!</p>
